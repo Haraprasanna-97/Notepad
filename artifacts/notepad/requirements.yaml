@@ -1,0 +1,11 @@
+packages:
+  "framer-motion": "For smooth transitions and beautiful glassmorphism panel animations"
+
+images:
+  - path: "artifacts/notepad/public/images/bg-abstract.png"
+    description: "Dark moody abstract background with glowing vibrant neon purple and cyan geometric light streaks, highly professional, dark mode aesthetic, 8k resolution"
+    aspect_ratio: "16:9"
+
+notes:
+  - Purely client-side application, no backend API calls required.
+  - LocalStorage is used for all state persistence (settings and editor content).
